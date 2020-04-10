@@ -31,7 +31,7 @@
         android:layout_marginRight="200dp"
         android:layout_margin="200dp"
         android:padding="20dp"
-        android:text="Hello, World."
+        android:text="See again."
         android:background="#ffc107" />
 
 </LinearLayout>
