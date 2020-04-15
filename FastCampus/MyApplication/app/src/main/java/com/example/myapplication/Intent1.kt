@@ -22,7 +22,7 @@ class Intent1 : AppCompatActivity() {
                 this.putExtra("number2", 2)
             }
             startActivityForResult(intent, 200)
-//            var intent = Intent(Intent.ACTION_VIEW, Uri.parse("http://m.naver.com"))
+//            var intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com"))
 //            startActivity(intent)
         }
     }
