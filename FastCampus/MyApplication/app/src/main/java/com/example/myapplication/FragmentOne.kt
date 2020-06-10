@@ -18,7 +18,7 @@ class FragmentOne : Fragment() {
 
     lateinit var dataPassListener : OnDataPassListener
 
-    override fun onAttach(context: Context?) {
+    override fun onAttach(context: Context) {
 
         super.onAttach(context)
 
